@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - B-OS</title>
+  <style>
+    :root {
+      --bg-color: #0d1117;
+      --card-bg: #161b22;
+      --border-color: #30363d;
+      --text-main: #c9d1d9;
+      --text-heading: #ffffff;
+      --text-muted: #8b949e;
+      --accent: #58a6ff;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg-color);
+      color: var(--text-main);
+      line-height: 1.6;
+      margin: 0;
+      padding: 40px 20px;
+    }
+
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      background-color: var(--card-bg);
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 40px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    }
+
+    h1 {
+      color: var(--text-heading);
+      font-size: 2.2rem;
+      margin-top: 0;
+      margin-bottom: 8px;
+    }
+
+    .effective-date {
+      color: var(--text-muted);
+      font-size: 0.95rem;
+      margin-bottom: 24px;
+      padding-bottom: 16px;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    h2 {
+      color: var(--text-heading);
+      font-size: 1.4rem;
+      margin-top: 32px;
+      margin-bottom: 12px;
+      padding-bottom: 6px;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    p {
+      margin-bottom: 16px;
+    }
+
+    ul {
+      margin-bottom: 16px;
+      padding-left: 20px;
+    }
+
+    li {
+      margin-bottom: 8px;
+    }
+
+    a {
+      color: var(--accent);
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .footer {
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid var(--border-color);
+      text-align: center;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>Privacy Policy</h1>
+    <div class="effective-date">Effective date: September 1, 2026</div>
+
+    <p>Youngweb Studios Pvt. Ltd. ("we," "us," or "our") operates B-OS, an AI chief of staff app for startup founders. This policy explains what we collect, why, and what choices you have.</p>
+
+    <h2>Information We Collect</h2>
+    <ul>
+      <li><strong>Account information:</strong> Your email address, name, and profile photo, from Google, Apple, or the email address and password you sign up with.</li>
+      <li><strong>Founder profile:</strong> Your company name, industry, stage, team size, and the one-liner and context you tell us about your business.</li>
+      <li><strong>Content you create:</strong> The messages you send to your mentor/buddy/COO/bookkeeper, your captures, tasks, goals, milestones, finance entries, uploaded documents, and weekly reviews.</li>
+      <li><strong>Community content:</strong> Posts and replies you publish in the Community tab. Unlike everything else in this list, these are visible to other founders using the app — never post anything you wouldn't want another founder to see.</li>
+      <li><strong>Usage analytics:</strong> App opens, screen views, and product events (like sending a capture or completing a task), collected through Firebase Analytics. We use this in aggregate to understand which parts of the app are actually used, not to profile you individually.</li>
+    </ul>
+    <p>We do not collect precise location, contacts, or photos beyond what you explicitly upload or attach.</p>
+
+    <h2>How We Use Your Information</h2>
+    <ul>
+      <li><strong>To operate the app:</strong> Generating mentor/buddy/COO/bookkeeper replies, morning briefs, weekly reviews, and finance insights from the information you've given us.</li>
+      <li><strong>To run your account:</strong> Authentication, billing for paid plans, and customer support.</li>
+      <li><strong>To improve the product:</strong> Aggregate usage analytics, never sold or shared for advertising.</li>
+      <li><strong>To notify you:</strong> Reminders you've turned on (daily check-in, buddy nudges) are scheduled on your own device. If you're matched to a relevant Community post, we tell you inside the app.</li>
+    </ul>
+
+    <h2>Who We Share It With</h2>
+    <p>Your message content is sent to the AI provider that powers your mentor's replies (currently Google's Gemini and/or Anthropic's Claude, depending on configuration), solely to generate that reply — not for their own model training, to the extent their processing terms allow us to require that.</p>
+    <p>Firebase (Google) provides authentication and analytics infrastructure.</p>
+    <p>If you subscribe, the Apple App Store or Google Play Store processes your payment; we never see or store your card details.</p>
+    <p>We do not sell your personal information, and we do not share it with advertisers.</p>
+
+    <h2>Your Choices & Privacy Rights (GDPR & CCPA)</h2>
+    <ul>
+      <li><strong>Export:</strong> You can download a complete copy of everything we hold about you at any time, from Settings (GDPR Data Portability & CCPA Right to Access).</li>
+      <li><strong>Delete:</strong> You can permanently delete your account and every piece of data tied to it from Settings at any time (GDPR "Right to Be Forgotten" & CCPA Right to Delete). This cannot be undone.</li>
+      <li><strong>Do Not Sell My Info:</strong> We do not sell your personal information or share it with third-party advertisers under CCPA/CPRA.</li>
+      <li><strong>Notifications:</strong> Every reminder can be turned off from Settings.</li>
+      <li><strong>Community:</strong> Reporting a post or reply hides it from your own view immediately, before any review.</li>
+    </ul>
+
+    <h2>Data Retention</h2>
+    <p>We keep your data for as long as your account is active. If you delete your account, we permanently remove your data as described above, except where we're legally required to retain limited records (e.g., billing records for tax purposes).</p>
+
+    <h2>Children's Privacy</h2>
+    <p>B-OS is intended for founders running a business and is not directed at children. We do not knowingly collect information from anyone under 13.</p>
+
+    <h2>Security</h2>
+    <p>We use industry-standard measures — encryption in transit, access controls on our systems — to protect your information. No system is perfectly secure, and we can't guarantee absolute security.</p>
+
+    <h2>Changes to This Policy</h2>
+    <p>If we make material changes, we'll notify you in the app before they take effect.</p>
+
+    <h2>Contact Us</h2>
+    <p>Questions about this policy? Email <a href="mailto:contact@youngwebstudios.com">contact@youngwebstudios.com</a>.</p>
+
+    <h2>Governing Law</h2>
+    <p>This policy is governed by the laws of India. If you access B-OS from outside India, mandatory local consumer and privacy protections (such as GDPR or CCPA) continue to apply.</p>
+
+    <div class="footer">
+      &copy; 2026 Youngweb Studios Pvt. Ltd. All rights reserved.
+    </div>
+  </div>
+
+</body>
+</html>
