@@ -1,0 +1,26 @@
+    <!-- Account Deletion Section required by Google Play -->
+    <h2 id="delete-account">Account & Data Deletion Request</h2>
+    <p>B-OS (operated by Youngweb Studios Pvt. Ltd.) gives you full control over your account and data.</p>
+
+    <h3>Method 1: Delete directly inside the app (Instant)</h3>
+    <ol>
+      <li>Open the <strong>B-OS</strong> app on your device.</li>
+      <li>Go to <strong>Settings</strong> (gear icon).</li>
+      <li>Scroll down and tap <strong>Delete Account</strong>.</li>
+      <li>Confirm deletion. Your account, profile, chats, tasks, goals, and captures will be permanently and immediately removed.</li>
+    </ol>
+
+    <h3>Method 2: Request deletion via Email (If app is uninstalled)</h3>
+    <p>If you have uninstalled the app or cannot log in, you can send an account deletion request directly to our support team:</p>
+    <ul>
+      <li>Send an email to: <a href="mailto:contact@youngwebstudios.com">contact@youngwebstudios.com</a></li>
+      <li>Subject: <strong>Account Deletion Request - B-OS</strong></li>
+      <li>Include: The registered email address associated with your account.</li>
+    </ul>
+    <p>Our team will process your deletion request and purge all personal data within <strong>7 business days</strong>.</p>
+
+    <h3>Types of Data Deleted vs. Retained</h3>
+    <ul>
+      <li><strong>Permanently Deleted:</strong> Account credentials, founder profile, AI chats/conversations, captures, tasks, goals, finance logs, and community posts.</li>
+      <li><strong>Retained for Legal/Tax Compliance:</strong> Payment transaction records from Google Play or Apple App Store are retained as required by tax and accounting laws.</li>
+    </ul>
